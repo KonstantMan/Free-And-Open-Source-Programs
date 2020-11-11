@@ -1,4 +1,4 @@
-# Free-and-Open-source-Resources-for-developers-and-simple-users
+# Free-Open-Source-Programs 
 
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
