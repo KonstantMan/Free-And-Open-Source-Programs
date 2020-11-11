@@ -1,4 +1,4 @@
-# Free-and-Open-Source-Programs
+# Free-&-Open-Source-Programs
 
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
