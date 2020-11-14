@@ -11,7 +11,7 @@
 - [Video Conferencing](#video-conferencing)
 - [Office Suite](#office-suite)
 - [Messaging Apps](#messaging-apps)
-- [IDE or Editors](#ide-editors)
+- [IDE/Editors](#ide-editors)
 
 ## Distros
 
@@ -124,11 +124,11 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## IDE or Editors
+## IDE/Editors
 
-> IDE or Editors softwares instead of Jetbrain and Microsoft Visual Studio.
+> IDE/Editors softwares instead of Jetbrain and Microsoft Visual Studio.
 
-| IDE or Editors Suite&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| IDE/Editors Suite&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Visual Studio Code](https://code.visualstudio.com/)                                                           ||  
 | [Atom](https://atom.io/)                                                           ||  
