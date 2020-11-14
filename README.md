@@ -54,7 +54,7 @@
 
 | Operating Systems &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
-| [ProtonMail(https://protonmail.com/)                                                           ||
+| [ProtonMail](https://protonmail.com/)                                                           ||
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -66,4 +66,4 @@
 
 | Operating Systems &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
-| [Jitsi Meet(https://meet.jit.si/)  
+| [Jitsi Meet](https://meet.jit.si/)  
