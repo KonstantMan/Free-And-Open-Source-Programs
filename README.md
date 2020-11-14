@@ -16,7 +16,18 @@
 
 | Operating Systems &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
-| [Linux ](https://www.mozilla.org/en/firefox/)                                                           ||
+| [Ubuntu](https://ubuntu.com/)                                                           ||
+| [Fedora](https://getfedora.org/)                                                           ||
+| [Manjaro](https://manjaro.org/)                                                           ||
+| [PopOs](https://pop.system76.com/)                                                           ||
+| [Linux Mint](https://linuxmint.com/)                                                           ||
+| [Open Suse](https://www.opensuse.org/)                                                           ||
+| [Elementary OS](https://elementary.io/)                                                           ||
+| [PureOs](https://www.pureos.net/)                                                           ||
+| [Clear Linux](https://clearlinux.org/)                                                           ||
+| [Deepin](https://www.deepin.org/en/)                                                           ||
+
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -48,11 +59,11 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Email Clients
+## Email Services
 
 > Email services  we recommend you to use instead of Gmail
 
-| Operating Systems &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| Email Services &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [ProtonMail](https://protonmail.com/)                                                           ||
 
@@ -64,6 +75,10 @@
 
 > Video conferencing is a technology that allows users in different locations to hold face-to-face meetings without having to move to a single location together. We recommend you to use instead of Google meat or Zoom.
 
-| Operating Systems &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| Video conferencing&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Jitsi Meet](https://meet.jit.si/)  
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
