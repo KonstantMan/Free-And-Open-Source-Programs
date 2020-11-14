@@ -124,3 +124,21 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## IDE or Editors
+
+> IDE or Editors softwares instead of Jetbrain and Microsoft Visual Studio.
+
+| IDE or Editors Suite&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Visual Studio Code](https://code.visualstudio.com/)                                                           ||  
+| [Atom](https://atom.io/)                                                           ||  
+| [Eclipse](https://www.eclipse.org/ide/)                                                           ||  
+| [VSCodium](https://github.com/VSCodium/vscodium)                                                           ||  
+| [Brackets](http://brackets.io/)                                                           ||  
+| [Apache NetBeans](https://netbeans.apache.org/)                                                           ||  
+| [Notepad++](https://notepad-plus-plus.org/)                                                           ||  
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
