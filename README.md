@@ -6,15 +6,16 @@
 
 - [Browsers](#browsers)
 - [Password Managers](#password-managers)
-- [Operating Systems](#operating-systems)
+- [Distros](#distros)
 - [Email Clients](#email-clients)
 - [Video Conferencing](#video-conferencing)
 - [Office Suite](#office-suite)
 - [Messaging Apps](#messaging-apps)
+- [IDE or Editors](#ide-editors)
 
-## Operating Systems
+## Distros
 
-> OS we recommend you to use instead of Windows 10 or Mac OS
+> Distros we recommend you to use instead of Windows 10 or Mac OS
 
 | Operating Systems &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
@@ -110,3 +111,16 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+## Messaging Apps
+
+> Messaging apps are apps and platforms that enable instant messaging. We recommend you to use instead of viber, messenger, whatsApp
+
+| Messaging Apps Suite&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Signal](https://www.signal.org/)                                                           ||  
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
