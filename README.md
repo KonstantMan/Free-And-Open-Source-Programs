@@ -10,6 +10,7 @@
 - [Email Clients](#email-clients)
 - [Video Conferencing](#video-conferencing)
 - [Office Suite](#office-suite)
+- [Messaging Apps](#messaging-apps)
 
 ## Operating Systems
 
@@ -93,6 +94,18 @@
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Libre Office](https://www.libreoffice.org/)                                                           ||  
 | [Open Office](https://www.openoffice.org/)                                                           ||
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Messaging Apps
+
+> Messaging apps are apps and platforms that enable instant messaging. We recommend you to use instead of viber, messenger, whatsApp
+
+| Messaging Apps Suite&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Signal](https://www.signal.org/)                                                           ||  
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
