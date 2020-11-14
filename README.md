@@ -8,7 +8,7 @@
 - [Password Managers](#password-managers)
 - [Operating Systems](#operating-systems)
 - [Email Clients](#email-clients)
-
+- [Video Conferencing](#video-conferencing)
 
 ## Operating Systems
 
@@ -59,3 +59,11 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+## Video Conferencing
+
+> Video conferencing is a technology that allows users in different locations to hold face-to-face meetings without having to move to a single location together. We recommend you to use instead of Google meat or Zoom.
+
+| Operating Systems &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Jitsi Meet(https://meet.jit.si/)  
