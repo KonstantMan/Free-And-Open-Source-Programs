@@ -22,7 +22,7 @@
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Ubuntu](https://ubuntu.com/)                                                           ||
 | [Fedora](https://getfedora.org/)                                                           ||
-| [Manjaro](https://manjaro.org/)                                                           ||
+| [Manjaro](https://manjaro.org/)                                                           |Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system. Within the Linux community, Arch itself is renowned for being an exceptionally fast, powerful, and lightweight distribution that provides access to the very latest cutting edge – and bleeding edge – software|
 | [PopOs](https://pop.system76.com/)                                                           ||
 | [Linux Mint](https://linuxmint.com/)                                                           ||
 | [Open Suse](https://www.opensuse.org/)                                                           ||
