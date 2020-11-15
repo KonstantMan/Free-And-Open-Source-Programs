@@ -12,6 +12,7 @@
 - [Office Suite](#office-suite)
 - [Messaging Apps](#messaging-apps)
 - [IDE/Editors](#ide-editors)
+- [Pdf Readers](#pdf-readers)
 
 ## Distros
 
@@ -104,7 +105,7 @@
 
 ## Messaging Apps
 
-> Messaging apps are apps and platforms that enable instant messaging. We recommend you to use instead of viber, messenger, whatsApp
+> Messaging apps are apps and platforms that enable instant messaging. We recommend you to use instead of viber, messenger, whatsApp.
 
 | Messaging Apps Suite&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
@@ -127,6 +128,19 @@
 | [Brackets](http://brackets.io/)                                                           ||  
 | [Apache NetBeans](https://netbeans.apache.org/)                                                           ||  
 | [Notepad++](https://notepad-plus-plus.org/)                                                           ||  
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Pdf Readers
+
+> We recommend you to use instead of Adobe pdf Reader.
+
+| Okular Suite&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Okular](https://okular.kde.org/)                                                           ||  
+| [Evince](https://wiki.gnome.org/Apps/Evince)                                                           ||  
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
