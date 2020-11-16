@@ -13,6 +13,7 @@
 - [Messaging Apps](#messaging-apps)
 - [IDE/Editors](#ide-editors)
 - [Pdf Readers](#pdf-readers)
+- [Two factor authentication](#two-factor-authentication)
 
 ## Distros
 
@@ -141,6 +142,16 @@
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Okular](https://okular.kde.org/)                                                           ||  
 | [Evince](https://wiki.gnome.org/Apps/Evince)                                                           ||  
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Two-factor-authentication 
+| Two factor authentication apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)                                                           ||
+| [Aegis Authenticator](https://getaegis.app/)                                                           ||
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
