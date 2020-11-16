@@ -65,6 +65,7 @@
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [BitWarden](https://bitwarden.com/)                                                                              |Bitwarden is a free and open-source password managemer that stores sensitive information such as website credentials in an encrypted vault. It has a variety of client applications including a web interface, desktop applications, browser extensions and mobile apps . And offers a cloud-hosted service as well as the ability to store locally your sensitive information
 | [Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)                                                                              |Lockwise is developed by Mozilla Firefox and  natively integrated into the Firefox browser, and has apps for Android and iOS,     |
+| [KeePassXC](https://keepassxc.org/)                                                           ||
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
