@@ -49,6 +49,7 @@
 | [Firefox ](https://www.mozilla.org/en/firefox/)                                                           |Mozilla Firefox is an open-source web browser developed by Mozilla and is available for Windows, macOS, Linux, and Android.   |
 | [Brave ](https://brave.com/)                                                                              |Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send cryptocurrency contributions in the form of Basic Attention Tokens to websites and content creators. And is available for Windows, macOS, Linux, and Android.  |
 | [Tor Project](https://www.torproject.org/)                                                           ||
+| [Waterfox](https://www.waterfox.net/)                                                           ||
 
 
 <div align="right">
