@@ -14,6 +14,7 @@
 - [IDE/Editors](#ide-editors)
 - [Pdf Readers](#pdf-readers)
 - [Two factor authentication](#two-factor-authentication)
+- [Maps](#maps)
 
 ## Distros
 
@@ -148,10 +149,25 @@
 </div>
 
 ## Two-factor-authentication 
+
+> We recommend you to use instead of Google Authenticator.
+
 | Two factor authentication apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)                                                           ||
 | [Aegis Authenticator](https://getaegis.app/)                                                           ||
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Maps
+
+> We recommend you to use instead of Google Maps.
+
+| Maps apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [OpenStreetMaps](https://www.openstreetmap.org/)                                                           ||
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
