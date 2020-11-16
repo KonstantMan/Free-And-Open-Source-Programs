@@ -15,6 +15,7 @@
 - [Pdf Readers](#pdf-readers)
 - [Two factor authentication](#two-factor-authentication)
 - [Maps](#maps)
+- [Android Market](#android-market)
 
 ## Distros
 
@@ -170,6 +171,19 @@
 | Maps apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [OpenStreetMaps](https://www.openstreetmap.org/)                                                           ||
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Android Market
+
+> We recommend you to use instead of Google Play Store.
+
+| Android Market apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [F-Droid](https://f-droid.org/)                                                           ||
+| [Aurora Store](https://aurora-store.en.softonic.com/android)                                                           ||
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
