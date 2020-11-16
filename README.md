@@ -16,6 +16,7 @@
 - [Two factor authentication](#two-factor-authentication)
 - [Maps](#maps)
 - [Android Market](#android-market)
+- [CAD Softwares](#CAD)
 
 ## Distros
 
@@ -185,6 +186,20 @@
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [F-Droid](https://f-droid.org/)                                                           ||
 | [Aurora Store](https://aurora-store.en.softonic.com/android)                                                           ||
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
+## CAD Softwares
+
+> We recommend you to use instead of AutoCad.
+
+| CAD Softwares apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [FreeCAD](https://freecad.en.softonic.com/)                                                           ||
+| [LibreCAD](https://librecad.org/)                                                           ||
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
