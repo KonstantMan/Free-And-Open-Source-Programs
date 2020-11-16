@@ -17,6 +17,7 @@
 - [Maps](#maps)
 - [Android Market](#android-market)
 - [CAD Softwares](#CAD)
+- [Notes](#notes)
 
 ## Distros
 
@@ -201,6 +202,19 @@
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [FreeCAD](https://freecad.en.softonic.com/)                                                           ||
 | [LibreCAD](https://librecad.org/)                                                           ||
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Notes
+
+> Notepad Apps, instead of Evernote and Google Keep
+
+| Notes apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Simplenote](https://simplenote.com/)                                                           ||
+| [Joplin](https://joplinapp.org/)                                                           ||
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
