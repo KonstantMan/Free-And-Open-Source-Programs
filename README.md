@@ -13,6 +13,7 @@
 - [Messaging Apps](#messaging-apps)
 - [IDE/Editors](#ide-editors)
 - [Pdf Readers](#pdf-readers)
+- [Two factor authentication](#two-factor-authentication)
 
 ## Distros
 
@@ -146,7 +147,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Two factor authentication 
+## Two-factor-authentication 
 | Two factor authentication apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)                                                           ||
