@@ -18,6 +18,7 @@
 - [Android Market](#android-market)
 - [CAD Softwares](#CAD)
 - [Notes](#notes)
+- [Business Communication Platforms](#business-communication-platform)
 
 ## Distros
 
@@ -215,6 +216,21 @@
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Simplenote](https://simplenote.com/)                                                           ||
 | [Joplin](https://joplinapp.org/)                                                           ||
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Business Communication Platforms
+
+> We recommend you to use instead of Microsoft Teams or Slack.
+
+| Business Communication Platforms apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ---------------------------------------------------------------------------------------------------------- | ----------- |
+| [Element](https://element.io/)                                                           ||
+| [Wire](https://wire.com/en/)                                                           ||
+| [Jami](https://jami.net/)                                                           ||
+| [Rocker Chat](https://rocket.chat/)                                                           ||
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
