@@ -16,9 +16,9 @@
 - [Two factor authentication](#two-factor-authentication)
 - [Maps](#maps)
 - [Android Market](#android-market)
-- [CAD Softwares](#CAD)
+- [CAD Software](#CAD-Software)
 - [Notes](#notes)
-- [Business Communication Platforms](#business-communication-platform)
+- [Business Communication Platforms](#business-communication-platforms)
 
 ## Linux Distributions
 
@@ -190,7 +190,7 @@
 </div>
 
 
-## CAD Softwares
+## CAD Software
 
 > We recommend you to use instead of AutoCad.
 
