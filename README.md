@@ -7,7 +7,7 @@
 - [Linux Distributions](#distros)
 - [Browsers](#browsers)
 - [Password Managers](#password-managers)
-- [Email Services](#email services)
+- [Email Services](#email-services)
 - [Video Conferencing](#video-conferencing)
 - [Office Suite](#office-suite)
 - [Messaging Apps](#messaging-apps)
