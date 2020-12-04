@@ -87,7 +87,6 @@
 | Video conferencing&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ---------------------------------------------------------------------------------------------------------- | ----------- |
 | [Jitsi Meet](https://meet.jit.si/)                                                           |Jitsi (previously SIP Communicator) is an audio/video and chat communicator with full encryption that supports protocols such as SIP, XMPP/Jabber, ICQ/AIM, Windows Live, Yahoo!, GTalk/Hangouts extensions, as well as OTR, ZRTP, etc.It can handle every firewall, and has many other useful features.Jitsi is completely open source / free software, and is freely available under the terms of the GNU Lesser General Public License. It can run on your own server.
-|  
 | [Big Blue Button](https://bigbluebutton.org)                                                           |BigBlueButton enables universities and colleges to deliver a high-quality learning experience to remote students.Their  vision is that starting a web conference should be as easy as clicking a single metaphorical big blue button. As an open source project,they believe it should be easy for others to embrace and extend. And while web conferencing means many things to many people -- their focus is to make the best web conferencing system for distance education. |
 
 <div align="right">
