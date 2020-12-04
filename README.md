@@ -11,7 +11,7 @@
 - [Video Conferencing](#video-conferencing)
 - [Office Suite](#office-suite)
 - [Messaging Apps](#messaging-apps)
-- [IDE/Editors](#ide/editors)
+- [IDE & Editors](#ide-&-editors)
 - [Pdf Readers](#pdf-readers)
 - [Two factor authentication](#two-factor-authentication)
 - [Maps](#maps)
@@ -120,7 +120,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## IDE /Editors
+## IDE & Editors
 
 > IDE/Editors softwares instead of Jetbrain and Microsoft Visual Studio.
 
